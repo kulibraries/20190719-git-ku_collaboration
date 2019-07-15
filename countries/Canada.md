@@ -1,8 +1,10 @@
 ##Canada
 ## population
+Tiny
 
 
 ## capital
+Ottawa
 
  
 ## official language
