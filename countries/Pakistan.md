@@ -2,13 +2,13 @@
 ## population
 
 
-## capital
+## capital: Islamabad
 
  
-## official language
+## official language: Urdu
 
 
-## interesting trivia
+## interesting trivia: Field Hockey is the national sport
 
 
 
